@@ -1,3 +1,1 @@
-# Todo
-
-- Add forehead collateral svgs and side views
+## Aavegotchi Collateral SVGs!
