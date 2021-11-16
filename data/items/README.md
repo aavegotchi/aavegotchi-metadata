@@ -1,11 +1,4 @@
-## Haunt [1.json](./items.json)
+## [Items](./items.json)
 
-JSON metadata for haunt 1 collaterals.
+JSON metadata for items.
 
-## Haunt [2.json](./new_format.json)
-
-JSON metadata for items with different fields.
-
-# Todo
-
-- Standardize the formats
